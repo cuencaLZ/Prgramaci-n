@@ -1,0 +1,1 @@
+Actividades realizadas en codewars con una dificultad de 7 kyu
